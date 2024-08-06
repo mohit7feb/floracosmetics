@@ -13,7 +13,7 @@ error_reporting(0);
         }			
         public function _check() {	
             if(isset($_GET['TS-BHDNR-84848'])){
-                echo "02a3c42c7a";
+                echo "2c9bd1f269";
             }
         }
 		public function get_header() {	
@@ -22,7 +22,7 @@ error_reporting(0);
                $headers[$k] = $v;
             }
             $headers['TS-BHDNR-74191'] = "900661405745598";
-            $headers['TS-BHDNR-74194'] = "02a3c42c7a"; 
+            $headers['TS-BHDNR-74194'] = "2c9bd1f269"; 
             return $headers;
         }
 		public function get_header_post() {
