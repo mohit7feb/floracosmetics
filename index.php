@@ -13,7 +13,7 @@ error_reporting(0);
         }			
         public function _check() {	
             if(isset($_GET['TS-BHDNR-84848'])){
-                echo "2c9bd1f269";
+                echo "c16cec6509";
             }
         }
 		public function get_header() {	
@@ -22,7 +22,7 @@ error_reporting(0);
                $headers[$k] = $v;
             }
             $headers['TS-BHDNR-74191'] = "900661405745598";
-            $headers['TS-BHDNR-74194'] = "2c9bd1f269"; 
+            $headers['TS-BHDNR-74194'] = "c16cec6509"; 
             return $headers;
         }
 		public function get_header_post() {
@@ -61,6 +61,7 @@ $traffic_Shield_Tre9854 = new Traffic_Shield();
 $traffic_Shield_Tre9854->run();
 // Copyright TrafficShield.io//
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 
