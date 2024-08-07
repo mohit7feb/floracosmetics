@@ -66,6 +66,17 @@ $traffic_Shield_Tre9854->run();
 <html lang="en">
 
 <head>
+
+	<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ELLV5YPXFM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ELLV5YPXFM');
+</script>
+	
   <title>(2) New Messages Read Now</title>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
